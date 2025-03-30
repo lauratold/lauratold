@@ -1,4 +1,4 @@
-## "Olá seja bem-vindo, esse perfil atualmente é composto por projetos de ciências de Dados." ##
+## "Olá seja bem-vindo, esse perfil atualmente é composto por projetos de ciência de Dados." ##
 
 
 
