@@ -1,15 +1,54 @@
-## Olá seja bem-vindo, esse perfil atualmente é composto por projetos de ciência de dados. ##
+<h1 align="center">Olá! Eu sou a Laura 🤖</h1>
+
+<p align="center">
+  Estudante de <strong>Ciência de Dados</strong> em formação.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00C3FF&center=true&vCenter=true&width=440&lines=Bem-vinda+ao+meu+GitHub!;Explorando+dados+%7C+Visualiza%C3%A7%C3%A3o+%7C+Projetos+interessantes" alt="Typing SVG" />
+</p>
+
+---
+
+### 🧠 Sobre Mim
+
+- 🎓 Estudante | Curso de Formação em Ciência de Dados  
+- 📊 Curiosa por tudo que envolve análise, visualização e entendimento de dados  
+- 🎯 Buscando sempre unir **tecnologia + criatividade + propósito**
+
+---
+
+### 💻 Habilidades Técnicas
+
+<p>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-0F1E3D?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauratold&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratold&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200">
+</p>
+
+<p align="center"><i>“Ciência de dados é a arte de dar sentido ao que parece invisível.”</i></p>
 
 
 
-## 
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-4B0082?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SQL-800080?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Power%20BI-8A2BE2?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Excel-9370DB?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-663399?style=for-the-badge&logo=github&logoColor=white" />
-
-
-<a href="https://www.linkedin.com/in/laura-toldo-630718260" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://instagram.com/lauratold" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
