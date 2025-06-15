@@ -34,14 +34,6 @@
 ---
 
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratold&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200">
