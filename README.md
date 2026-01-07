@@ -25,17 +25,13 @@ Combinando análise avançada com práticas de proteção digital.</p>
 <ul>
   <li>📊 Análise exploratória de dados (EDA)</li>
   <li>🧼 Limpeza, tratamento e balanceamento de dados</li>
-  <li>📈 Modelagem com Regressão, Random Forest, KNN</li>
   <li>🧪 Avaliação com métricas: accuracy, recall, f1-score</li>
   <li>🧮 pandas, NumPy, matplotlib, seaborn, scikit-learn</li>
-  <li>🗂️ Jupyter Notebook e Google Colab</li>
-</ul>
 
 <h3>🔐 Segurança Cibernética</h3>
 <ul>
   <li>🔎 Reconhecimento e análise de vulnerabilidades (OWASP Top 10)</li>
   <li>🧱 Hardening básico de sistemas e redes</li>
-  <li>🔧 Ferramentas: Nmap, Wireshark, netstat, whois</li>
   <li>🔐 Conceitos: firewall, criptografia, autenticação, HTTPS</li>
   <li>💻 Ambiente Linux e linha de comando (bash)</li>
 </ul>
