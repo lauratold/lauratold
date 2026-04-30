@@ -1,7 +1,6 @@
 <h1 align="center">Olá! Eu sou a Laura 🤖</h1>
 
 <p align="center">
- <p><strong>💻 Ciência de Dados</strong><br>
 </p>
 
 <p align="center">
