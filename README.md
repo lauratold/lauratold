@@ -12,7 +12,7 @@
 
 ### 🧠 Sobre Mim
 
-- 🎓 Estudante | Curso de Formação em Ciência de Dados
+- 🎓 Cientista de Dados
 - 📊 Curiosa por tudo que envolve análise, visualização, entendimento de dados e segurança da informação
 - 🎯 Buscando sempre unir **tecnologia + criatividade + propósito**
 
