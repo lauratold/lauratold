@@ -100,15 +100,6 @@ RAWG API • Data Analysis • Visualization • Regression Models
 
 ---
 
-# 📊 Character Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lauratold&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauratold&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 🕹️ Current Quest Log
 
 ```txt
