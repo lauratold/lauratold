@@ -20,15 +20,6 @@ Machine Learning • Analytics • Data Visualization • Games
 ╚══════════════════════════════════════════════════════╝
 ```
 
-## 👾 About Me
-
-I'm a Data Science student passionate about understanding how data can explain behaviors, patterns and decision-making.
-
-My projects explore machine learning, analytics and game-related data, combining technical skills with creativity and curiosity.
-
-Currently leveling up through real-world projects, predictive models and data storytelling.
-
----
 
 # ⚔️ Skills Unlocked
 
